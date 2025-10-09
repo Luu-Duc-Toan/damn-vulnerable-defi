@@ -16,7 +16,7 @@
 - [x] [naive-receiver](src/naive-receiver/write-up)
 - [x] [truster](src/truster/write-up)
 - [x] [side-entrance](src/side-entrance/write-up)
-- [x] [the-rewarder](src/the-rewarder/write-up)
+- [ ] the-rewarder
 - [x] [selfie](src/selfie/write-up)
 - [ ] compromised
 - [x] [puppet](src/puppet/write-up)
