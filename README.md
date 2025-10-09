@@ -18,15 +18,15 @@
 - [x] [side-entrance](src/side-entrance/write-up)
 - [x] [the-rewarder](src/the-rewarder/write-up)
 - [x] [selfie](src/selfie/write-up)
-- [] compromised
+- [ ] compromised
 - [x] [puppet](src/puppet/write-up)
 - [x] [puppet-v2](src/puppet-v2/write-up)
 - [x] [free-rider](src/free-rider/write-up)
-- [] backdoor
-- [] climber
-- [] wallet-mining
-- [] puppet-v3
-- [] abi-smuggling
-- [] shards
-- [] curvy-puppet
-- [] withdrawal
+- [ ] backdoor
+- [ ] climber
+- [ ] wallet-mining
+- [ ] puppet-v3
+- [ ] abi-smuggling
+- [ ] shards
+- [ ] curvy-puppet
+- [ ] withdrawal
