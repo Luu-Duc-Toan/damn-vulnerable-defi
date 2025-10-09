@@ -29,6 +29,6 @@ function _buyOne(uint256 tokenId) private {
   forge test --mp test/free-rider/FreeRider.t.sol
   ```
 
-### Techniqual note
+### Technical note
 
 UniswapV2 support [flash swap](https://docs.uniswap.org/contracts/v2/guides/smart-contract-integration/using-flash-swaps), with small fee anyone can have access to all pool liquidity in 1 transaction
