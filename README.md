@@ -12,17 +12,17 @@
 
 ## Progress
 
-- [x] [unstoppable](src/unstoppable/write-up)
-- [x] [naive-receiver](src/naive-receiver/write-up)
-- [x] [truster](src/truster/write-up)
-- [x] [side-entrance](src/side-entrance/write-up)
+- [x] [unstoppable](src/unstoppable/write-up.md)
+- [x] [naive-receiver](src/naive-receiver/write-up.md)
+- [x] [truster](src/truster/write-up.md)
+- [x] [side-entrance](src/side-entrance/write-up.md)
 - [ ] the-rewarder
-- [x] [selfie](src/selfie/write-up)
+- [x] [selfie](src/selfie/write-up.md)
 - [ ] compromised
-- [x] [puppet](src/puppet/write-up)
-- [x] [puppet-v2](src/puppet-v2/write-up)
-- [x] [free-rider](src/free-rider/write-up)
-- [ ] backdoor
+- [x] [puppet](src/puppet/write-up.md)
+- [x] [puppet-v2](src/puppet-v2/write-up.md)
+- [x] [free-rider](src/free-rider/write-up.md)
+- [x] [backdoor](src/backdoor/write-up.md)
 - [ ] climber
 - [ ] wallet-mining
 - [ ] puppet-v3
